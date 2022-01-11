@@ -1,3 +1,26 @@
+### EN Version bellow
+
+# Rudolph a rena de nariz vermleho - Cartão de Natal IOT
+
+Olá, eu sou o Rudolph e sei que você me conhece das histórias do Papai Noel, e eu estou aqui para ajudar ele a levar mensagens vindas do mundo todo diretamente para sua árvore de Natal.
+
+Nos dias de hoje, com restrições de viagens (2021/2022), o Papai Noel me pediu alguma idéia genial para fazer as pessoas mais felizes, e olhando para a minha mesa, eu encontrei vários materiais de "Faça Você Mesmo" e com algum esforço, serei capaz de criar meu primeiro dispositivo IOT (Sou chique :D). Deixa eu mostrar o "my precious":
+
+Eu tenho um modulo da espressif chamado ESP32-S2 e um display Oled (SD1309) 128x64 pixels, alguns headers e fiozinhos, além de uma PCB "da hora"(você concorda?) que vai funcionar com um software (firmware) que conectará a internet e recebera mensagens vindas do Twitter e mostrará diretamente na árvore.
+
+Todo esse trabalho duro me deixou cansado e como você sabe, em aguns meses eu precisarei ajudar o velhinho novamente. O Software é um código aberto e você está intimado a ajudar o Velho do Saco também, chega junto e espalhe alegria pelo mundo :)
+
+## Hardware
+
+Eu decidi usar o ESP32-S2 "sozinho", sem um módulo já pronto como o Node32s para esse projeto, Isso significa que o Kadu (o cara que me ajuda a trazer essas coisas para o mundo real) pegou um projeto base, chamado Franzininho Wifi, que utiliza o mesmo modulo (Valeu Fabio Souza - Criador do franzinho), Então subi no ombro de gigantes e trouxe várias das coisas do projeto para esse aqui. Você pode ver  lista de compras dos componentes abaixo ou diretamente no link do projeto da Mouser
+
+## Software
+
+Esse é um trabalho em desenvolvimento, será feito usando o Framework Arduino, e se for possivel programarei no Platform.IO (Extensão do VS Code). A idéia é ter uma configuração de Wifi que irá guiar o usuário pela configuração e mostrará o caminho para a configuração da conta no Twitter também. E depois disso, é só correr para o abraço, ou melhor, ver as mensagens chegaram na tela, diretamente do mundo inteiro!
+
+Veja a lista de componentes, images e links no final desse arquivo.
+
+
 # Rudolph the red noused IOT Christmas Card
 
 ## Welcome aboard
