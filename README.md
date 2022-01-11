@@ -1,4 +1,4 @@
-### [EN Version bellow](#en)
+### [EN Version bellow](#now-in-english)
 
 
 # Rudolph a rena de nariz vermleho - Cartão de Natal IOT
@@ -22,9 +22,10 @@ Esse é um trabalho em desenvolvimento, será feito usando o Framework Arduino, 
 Veja a lista de componentes, images e links no final desse arquivo.
 
 
+## NOW IN ENGLISH
 # Rudolph the red noused IOT Christmas Card
 
-<a href="en"></a>
+
 ## Welcome aboard
 
 
