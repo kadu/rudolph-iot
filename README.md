@@ -29,7 +29,7 @@ E aqui estão os componentes utilizados nesse projeto, com exceção do display 
 
 ## Hardware
 
-Eu decidi usar o ESP32-S2 "sozinho", sem um módulo já pronto como o Node32s para esse projeto, Isso significa que o Kadu (o cara que me ajuda a trazer essas coisas para o mundo real) pegou um projeto base, chamado Franzininho Wifi, que utiliza o mesmo modulo (Valeu Fabio Souza - Criador do franzinho), Então subi no ombro de gigantes e trouxe várias das coisas do projeto para esse aqui. Você pode ver  lista de compras dos componentes abaixo ou diretamente no link do projeto da Mouser
+Eu decidi usar o ESP32-S2 "sozinho", sem um módulo já pronto como o Node32s para esse projeto, Isso significa que o Kadu (o cara que me ajuda a trazer essas coisas para o mundo real) pegou um projeto base, chamado [Franzininho Wifi](https://github.com/Franzininho/Franzininho-WIFI), que utiliza o mesmo modulo (Valeu Fabio Souza - Criador do franzinho), Então subi no ombro de gigantes e trouxe várias das coisas do projeto para esse aqui. Você pode ver  lista de compras dos componentes abaixo ou diretamente no link do projeto da Mouser
 
 ## Software
 

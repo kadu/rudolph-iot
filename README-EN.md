@@ -37,7 +37,7 @@ The OLED display is pushed in Ali Express, [click here to see](https://s.click.a
 ## Hardware
 
 
-I've decided to use an ESP32-S2 standalone configuration for this project, It means that Kadu (the guy that help me to turn this thru the real world) found a project called Franzininho Wifi that use the same ESP32-S2 MCU and got a lot of Fabio's (Franzininho creator) idea and uses in mine. You could check the list of components that I've used in this CSV or directly on the Mouser Project Page.
+I've decided to use an ESP32-S2 standalone configuration for this project, It means that Kadu (the guy that help me to turn this thru the real world) found a project called [Franzininho Wifi](https://github.com/Franzininho/Franzininho-WIFI) that use the same ESP32-S2 MCU and got a lot of Fabio's (Franzininho creator) idea and uses in mine. You could check the list of components that I've used in this CSV or directly on the Mouser Project Page.
 
 
 ## Software
