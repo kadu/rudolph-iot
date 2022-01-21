@@ -18,7 +18,7 @@ Todo esse trabalho duro me deixou cansado e como você sabe, em aguns meses eu p
 
 No ano de 2020, participei do  JULIALABS PCB CHALLENGE 2020 com o projeto do [Anjinho](https://www.pcbway.com/project/shareproject/Christmas_PCB_Contest___JuliaLabs.html) e esse ano estou participando novamente com nosso Rudolph, me desejem sorte!
 
-Obrigado [Julia](https://www.twitch.tv/julialabs) por fazer esse cuncurso que é tão legal, Valeu também [Mouser](https://br.mouser.com/) e [PCBWay](https://www.pcbway.com/) por estar junto com a Julia nessa jornada!
+Obrigado [Julia](https://www.twitch.tv/julialabs) por fazer esse cuncurso que é tão legal, Valeu também [Mouser](https://br.mouser.com/) e [PCBWay](https://www.pcbway.com/) por estar junto com a Julia nessa jornada! e também a [Altium Designer](https://www.altium.com/altium-designer/)
 
 ### Links importantes!
 

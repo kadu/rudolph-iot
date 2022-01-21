@@ -21,7 +21,7 @@ All this hard work make me tired, and you know, in a few months I need to help S
 
 In the last year (2020) I've participated in the 2020 version of this challenge with the [Angel project](https://www.pcbway.com/project/shareproject/Christmas_PCB_Contest___JuliaLabs.html) and this year (2021) I'm in the contest again with Rudolph, wish me luck!
 
-Thanks, [Julia](https://www.twitch.tv/julialabs) to promote this so-cool contest, thanks also [Mouser](https://br.mouser.com/) and [PCBWay](https://www.pcbway.com/) to be together with Julia in this journey.
+Thanks, [Julia](https://www.twitch.tv/julialabs) to promote this so-cool contest, thanks also [Mouser](https://br.mouser.com/) and [PCBWay](https://www.pcbway.com/) to be together with Julia in this journey, and [Altium Designer](https://www.altium.com/altium-designer/). THANKS
 
 
 ## Relevant Links!
